@@ -1,0 +1,7 @@
+{
+  "name": "India GIS Dashboard",
+  "description": "An advanced GIS dashboard for forest fire monitoring in India, featuring shapefile upload, state-wise analysis, and integration with simulated Earth Engine datasets for fire, weather, and topography.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
